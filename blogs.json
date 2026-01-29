@@ -2001,7 +2001,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog",
+            "site_url": "https://iosapptemplates.com/blog/",
             "feed_url": "https://iosapptemplates.com/blog/feed",
             "twitter_url": "https://twitter.com/0xflorian"
           },
@@ -5142,8 +5142,8 @@
           {
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
-            "site_url": "https://www.bitrig.com/blog",
-            "feed_url": "https://www.bitrig.com/api/rss",
+            "site_url": "https://bitrig.com/blog",
+            "feed_url": "https://bitrig.com/api/rss",
             "twitter_url": "https://twitter.com/bitrigapp"
           },
           {
@@ -5487,8 +5487,8 @@
           {
             "title": "Penbook Dev Log",
             "author": "User Camp",
-            "site_url": "https://blog.penbook.app/",
-            "feed_url": "https://blog.penbook.app/feed",
+            "site_url": "https://penbook.app/blog/",
+            "feed_url": "https://penbook.app/blog/feed",
             "twitter_url": "https://twitter.com/penbookapp"
           },
           {
