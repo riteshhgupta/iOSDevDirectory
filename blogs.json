@@ -1521,8 +1521,8 @@
           {
             "title": "elkraneo",
             "author": "Cristian Díaz",
-            "site_url": "https://www.elkraneo.com/",
-            "feed_url": "https://www.elkraneo.com/rss/",
+            "site_url": "https://elkraneo.com/",
+            "feed_url": "https://elkraneo.com/rss/",
             "mastodon_url": "http://mastodon.social/@elkraneo",
             "twitter_url": "https://twitter.com/elkraneo"
           },
@@ -1676,8 +1676,8 @@
           {
             "title": "FlineDev",
             "author": "Cihat Gündüz",
-            "site_url": "https://www.fline.dev/",
-            "feed_url": "https://www.fline.dev/rss/",
+            "site_url": "https://fline.dev/",
+            "feed_url": "https://fline.dev/rss/",
             "twitter_url": "https://twitter.com/Jeehut",
             "mastodon_url": "https://iosdev.space/@Jeehut"
           },
@@ -2001,7 +2001,7 @@
           {
             "title": "iOS App Templates Blog",
             "author": "Florian Marcu",
-            "site_url": "https://iosapptemplates.com/blog",
+            "site_url": "https://iosapptemplates.com/blog/",
             "feed_url": "https://iosapptemplates.com/blog/feed",
             "twitter_url": "https://twitter.com/0xflorian"
           },
@@ -2682,7 +2682,7 @@
             "title": "Martin Mitrevski’s Blog",
             "author": "Martin Mitrevski",
             "site_url": "https://martinmitrevski.com/",
-            "feed_url": "https://martinmitrevski.com/feed/",
+            "feed_url": "https://martinmitrevski.com/feed",
             "twitter_url": "https://twitter.com/mitrevski"
           },
           {
@@ -4043,13 +4043,13 @@
             "title": "Stuart Breckenridge’s Blog",
             "author": "Stuart Breckenridge",
             "site_url": "https://stuartbreckenridge.net/",
-            "feed_url": "https://stuartbreckenridge.net/rss/",
+            "feed_url": "https://stuartbreckenridge.net/rss.xml",
             "mastodon_url": "https://indieweb.social/@stuarticus"
           },
           {
             "title": "Stuart Hall’s Blog",
             "author": "Stuart Hall",
-            "site_url": "http://stuartkhall.com/",
+            "site_url": "https://stuartkhall.com/",
             "feed_url": "http://feeds.feedburner.com/stuartkhall",
             "twitter_url": "https://twitter.com/stuartkhall"
           },
@@ -4153,8 +4153,8 @@
           {
             "title": "Swift in Depth",
             "author": "Tjeerd in ’t Veen",
-            "site_url": "https://swiftindepth.com/",
-            "feed_url": "https://swiftindepth.com/feed.xml",
+            "site_url": "https://www.soligalgos.org/2019/05/16/le-podenco-maneto/",
+            "feed_url": "https://www.soligalgos.org/2019/05/16/le-podenco-maneto/",
             "twitter_url": "https://twitter.com/tjeerdintveen"
           },
           {
@@ -4995,8 +4995,8 @@
           {
             "title": "ASO Blog",
             "author": "I WANT AN ELEPHANT",
-            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/",
-            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/",
+            "site_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog",
+            "feed_url": "https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed",
             "twitter_url": "https://twitter.com/IWA_ELEPHANT"
           },
           {
@@ -5142,8 +5142,8 @@
           {
             "title": "Bitrig Blog",
             "author": "Bitrig Team",
-            "site_url": "https://www.bitrig.com/blog",
-            "feed_url": "https://www.bitrig.com/api/rss",
+            "site_url": "https://bitrig.com/blog",
+            "feed_url": "https://bitrig.com/api/rss",
             "twitter_url": "https://twitter.com/bitrigapp"
           },
           {
@@ -5487,8 +5487,8 @@
           {
             "title": "Penbook Dev Log",
             "author": "User Camp",
-            "site_url": "https://blog.penbook.app/",
-            "feed_url": "https://blog.penbook.app/feed",
+            "site_url": "https://penbook.app/blog/",
+            "feed_url": "https://penbook.app/blog/feed",
             "twitter_url": "https://twitter.com/penbookapp"
           },
           {
@@ -5582,7 +5582,7 @@
           {
             "title": "Steamclock Software Blog",
             "author": "Steamclock Team",
-            "site_url": "https://steamclock.com/blog",
+            "site_url": "https://steamclock.com/blog/",
             "feed_url": "https://steamclock.com/blog/feed.xml",
             "twitter_url": "https://twitter.com/steamclocksw"
           },
@@ -5653,15 +5653,15 @@
           {
             "title": "Tramline Blog",
             "author": "Tramline Team",
-            "site_url": "https://www.tramline.app/blog",
-            "feed_url": "https://www.tramline.app/blog/rss.xml",
+            "site_url": "https://tramline.app/blog",
+            "feed_url": "https://tramline.app/blog/rss.xml",
             "twitter_url": "https://twitter.com/tramlinehq"
           },
           {
             "title": "Two Ring Software",
             "author": "Two Ring Software Team",
-            "site_url": "https://tworingsoft.com/blog/",
-            "feed_url": "https://tworingsoft.com/feed.xml",
+            "site_url": "https://mcknight.io/blog/",
+            "feed_url": "https://mcknight.io/feed.xml",
             "twitter_url": "https://twitter.com/tworingsoft"
           },
           {
@@ -7178,7 +7178,7 @@
             "site_url": "https://appstore-tagebuch.de",
             "twitter_url": "https://twitter.com/AppTagebuch",
             "mastodon_url": "https://iosdev.space/@AppTagebuch@podcasts.social",
-            "feed_url": "https://appstore-tagebuch.de/feed/"
+            "feed_url": "https://appstore-tagebuch.de/podcast.xml"
           }
         ]
       },
